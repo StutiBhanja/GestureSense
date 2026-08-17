@@ -1,0 +1,14 @@
+numpy
+pandas
+scikit-learn
+tensorflow
+keras
+optuna
+mediapipe
+opencv-python
+joblib
+matplotlib
+seaborn
+streamlit
+plotly
+Pillow

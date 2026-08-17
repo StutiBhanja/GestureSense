@@ -1,0 +1,8 @@
+{
+  "n_layers": 2,
+  "units": 32,
+  "dropout": 0.16239780813448107,
+  "learning_rate": 0.00013066739238053285,
+  "batch_size": 16,
+  "activation": "tanh"
+}
