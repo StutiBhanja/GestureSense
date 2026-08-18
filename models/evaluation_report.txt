@@ -6,15 +6,15 @@ ROC-AUC    : 1.0000
 
               precision    recall  f1-score   support
 
-     call_me       1.00      1.00      1.00       100
-        fist       1.00      1.00      1.00       100
-     ok_sign       1.00      1.00      1.00       100
-   open_palm       1.00      1.00      1.00       100
-       peace       1.00      1.00      1.00       100
-    pointing       1.00      1.00      1.00       100
- thumbs_down       1.00      1.00      1.00       100
-   thumbs_up       1.00      1.00      1.00       140
+     call_me       1.00      1.00      1.00       140
+        fist       1.00      1.00      1.00       140
+     ok_sign       1.00      1.00      1.00       140
+   open_palm       1.00      1.00      1.00       140
+       peace       1.00      1.00      1.00       140
+    pointing       1.00      1.00      1.00       140
+ thumbs_down       1.00      1.00      1.00       142
+   thumbs_up       1.00      1.00      1.00       180
 
-    accuracy                           1.00       840
-   macro avg       1.00      1.00      1.00       840
-weighted avg       1.00      1.00      1.00       840
+    accuracy                           1.00      1162
+   macro avg       1.00      1.00      1.00      1162
+weighted avg       1.00      1.00      1.00      1162
